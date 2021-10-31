@@ -13,5 +13,6 @@ New Project
   * Image processing ***AI algorithms***
   * I/O with Button and Speaker in the Traffic light
 
-![blueprint](https://mblogthumb-phinf.pstatic.net/20141209_262/roboholic84_1418086344835k4qbb_JPEG/IMG_0267.JPG?type=w2)
+![blueprint](https://user-images.githubusercontent.com/91384930/139588883-241e7ee3-4091-4ec5-b95c-0bf9ef360c4a.jpg)
+
 ---
